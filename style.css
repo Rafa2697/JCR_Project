@@ -1,9 +1,17 @@
 
+
+@import url('https://fonts.googleapis.com/css2? family= Limelight & display=swap');
+
 *{
     margin: 0;
     padding: 0;
 }
 
+.nav p{
+    color: black;
+    font-size: 24px;
+    
+}
 a{
     color: black;
     text-decoration: none;
@@ -17,10 +25,12 @@ a:hover{
     
 }
 
-.logo{
+p{
     font-size: 28px;
     text-transform: uppercase;
     letter-spacing: 4px;
+    font-family: 'Limelight', cursiva;
+    
 }
 
 nav{
