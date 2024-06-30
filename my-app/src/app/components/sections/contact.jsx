@@ -4,7 +4,7 @@ import { PiPhoneCallDuotone } from "react-icons/pi";
 export default function Contact() {
     return (
 
-        <section className="h-screen bg-emerald-600 text-emerald-50 flex flex-col items-center justify-center w-full gap-20" id='contact'>
+        <section className="h-screen bg-neutral-900  text-emerald-50 flex flex-col items-center justify-center w-full gap-20" id='contact'>
 
             <h1 className="text-green-50 text-6xl mt-7">Contato</h1>
             <div className='flex flex-col md:flex-row w-full md:w-3/4 gap-6'>
