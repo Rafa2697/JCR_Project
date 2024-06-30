@@ -17,11 +17,11 @@ export default function Services() {
                     </a>
                 </div>
                 <div className='flex flex-col md:flex-row gap-2 max-lg:gap-8 m-3 '>
-                    <div className='flex flex-col justify-center w-full text-emerald-50 m-3'>
-                        <h1 className='text-center text-2xl '>Portões em Aluminio</h1>
+                    <div className='flex flex-col justify-center w-full text-emerald-50 md:m-3'>
+                        <h1 className='text-center pb-5 text-2xl font-bold'>Portões em Aluminio</h1>
                         <p className=' text-justify text-base md:text-1xl'>Proteja o que é mais importante para você com os portões de alumínio da JCR Esquadrias. Fabricados com materiais de alta qualidade e tecnologia de ponta, nossos portões oferecem a combinação perfeita de segurança, durabilidade e elegância para sua casa.</p>
                     </div>
-                    <div className=" w-full text-emerald-50 flex items-center m-3">
+                    <div className=" w-full text-emerald-50 flex items-center">
                         <div className='flex justify-center w-full'>
                             <Image className='transition-opacity w-full rounded-md'
                                 src="/fotoPortao.jpg"
@@ -48,15 +48,15 @@ export default function Services() {
                 </div>
 
                 <div className='flex flex-col-reverse md:flex-row mx-3 max-lg:gap-5'>
-                    <div className='flex justify-center w-auto md:w-full m-3'>
+                    <div className='flex justify-center w-auto md:w-full '>
                         <Image className='transition-opacity w-full rounded-md'
                             src="/movelplanejado.png"
-                            width={1000}
+                            width={500}
                             height={500}
                             alt="JCR logo" />
                     </div>
-                    <div className='flex flex-col justify-center w-full m-3'>
-                        <h1 className='text-center text-xl pb-5'>Móveis Planejados</h1>
+                    <div className='flex flex-col justify-center w-full md:m-3'>
+                        <h1 className='text-center text-xl pb-5 font-bold'>Móveis Planejados</h1>
                         <p className=' text-justify text-base md:text-1xl'>Crie espaços funcionais, personalizados e esteticamente impecáveis com os móveis planejados em alumínio da JCR Esquadrias. Fabricados com materiais de alta qualidade e tecnologia de ponta, nossos móveis oferecem a combinação perfeita de praticidade, durabilidade e beleza para sua casa ou escritório.</p>
                     </div>
                 </div>
@@ -66,13 +66,13 @@ export default function Services() {
             <hr className='text-green-50 w-60' />
             <section className="h-auto md:h-screen text-emerald-50 flex flex-col md:flex-row items-center w-full md:w-3/4 m-3" id='vidros'>
                 <div className='m-3 text-justify'>
-                    <h1 className='pb-5 text-xl text-center md:text-2xl'>Vidros temperados, Espelhos e Box</h1>
+                    <h1 className='pb-5 text-xl text-center md:text-2xl font-bold'>Vidros temperados, Espelhos e Box</h1>
                     <p className='text-justify text-base md:text-1xl'>A JCR Esquadrias oferece soluções completas em vidros temperados sob medida e box para banheiros, transformando seus ambientes com beleza, funcionalidade e segurança.</p>
                 </div>
                 <div className='m-3 flex justify-center'>
                     <Image className='transition-opacity w-full rounded-md'
                         src="/espelho.jpg"
-                        width={1000}
+                        width={1500}
                         height={500}
                         alt="JCR logo" />
                 </div>
