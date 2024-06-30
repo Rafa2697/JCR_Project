@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "JCR Esquadrias",
+  title: "Esquadrias Aluminio",
   description: "Esquadria e Aluminios",
 };
 
