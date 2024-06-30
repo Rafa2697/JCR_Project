@@ -65,7 +65,7 @@ export default function Services() {
             <hr className='text-green-50 w-60' />
             <section className="h-auto md:h-screen text-emerald-50 flex flex-col md:flex-row items-center w-full md:w-3/4 m-3" id='vidros'>
                 <div className='m-3 text-justify'>
-                    <h1 className='pb-5 text-center  text-base md:text-2xl'>Vidros temperados e Box</h1>
+                    <h1 className='pb-5 text-xl text-center md:text-2xl'>Vidros temperados e Box</h1>
                     <p className='text-justify text-base md:text-1xl'>A JCR Esquadrias oferece soluções completas em vidros temperados sob medida e box para banheiros, transformando seus ambientes com beleza, funcionalidade e segurança.</p>
                 </div>
                 <div className='m-3 flex justify-center'>
