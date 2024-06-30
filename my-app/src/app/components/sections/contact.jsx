@@ -22,7 +22,7 @@ export default function Contact() {
 
                 </div>
                 <div className='flex justify-center w-full '>
-                    <a href="tel:+551333288584" className='flex justify-center items-center w-full gap-4'>
+                    <a href="tel:1333288584" className='flex justify-center items-center w-full gap-4'>
                         <PiPhoneCallDuotone className='text-green-50 w-10 h-10' />
                         <p>13 3328-8584</p>
                     </a>
